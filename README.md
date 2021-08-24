@@ -5,7 +5,7 @@
 <br>
 <p>Currently, in my spare time, I'm working on something cool.</p>
 <p>Currently, I am improving my game development skills. 🌱</p>
-<h2>How to reach me<h2>
+<h2>How to reach me</h2>
 <p>🤝 You can making connections on <a href="https://www.linkedin.com/in/aleksandra-nosińska-89a57221a/" rel="nofollow">Linkedin</a></p>
 <p>And checking my portfolio in <a href="https://t5udzuku.itch.io" rel="nofollow">Itch.io</a></p>
 <br>
