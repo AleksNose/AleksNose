@@ -1,5 +1,5 @@
 <h1>Hi there, I am Aleksandra</h1>
-<h2>About me 👽<h2>
+<h2>About me 👽</h2>
 <p>I am a CS undergraduate at Polish-Japanese Academy Of Information Technology in Warsaw, Poland. Actually I am currently looking for a job as a Unity C# Programmer</p>
 <br>
 <p>I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.</p>
