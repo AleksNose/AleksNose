@@ -7,8 +7,6 @@
 <p>I'm currently working on something cool in my spare time. :shipit:
 <br>  
 I'm improving my game development skills. 🌱</p>
-<p>🤔 My teckstacks: Linux, MySQL.
-<br>🎓 Languages: C#, C++, Java, Python, HTML, CSS</p>
 <h2>How to reach me</h2>
 <p>🤝 You can making connections on <a href="https://www.linkedin.com/in/aleksandra-nosińska-89a57221a/" rel="nofollow">Linkedin</a>
 <br>
