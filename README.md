@@ -4,8 +4,9 @@
 <h2>About me: 👽</h2>
 <p>I am a CS undergraduate at <strong>Polish-Japanese Academy Of Information Technology in Warsaw, Poland</strong>. Actually I am currently looking for a job as a Unity C# Programmer</p>
 <p>I love learning new technologies and contributing to open source. Recently enjoying problem solving as well. I am currently working on something cool.</p>
-<p>I'm currently working on something cool in my spare time. :shipit:</p>
-<p>Currently, I am improving my game development skills. 🌱</p>
+<p>I'm currently working on something cool in my spare time. :shipit:
+<br>  
+I'm improving my game development skills. 🌱</p>
 <h2>How to reach me</h2>
 <p>🤝 You can making connections on <a href="https://www.linkedin.com/in/aleksandra-nosińska-89a57221a/" rel="nofollow">Linkedin</a>
 <br>
